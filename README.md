@@ -1,50 +1,59 @@
 ##  Михайленко Сергей
 
 ## :hand: Привет я frontend разработчик 
-
-**Навыки работы c:** 
+#### :email:[serega.miha@gmail.com](serega.miha@gmail.com)
+#### [t.me](https://t.me/seregamiha123)
+####
+### Навыки работы c:
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,ps,vscode,figma )
 
-Активно изучаю среду Frontend разработки с 2022 года.
-Хочу учи
+ - Активно изучаю среду Frontend разработки.
 
-Проекты и крусовые работы:
+ - Хочу учиться у лучших!
+
+####
+###  Проекты и крусовые работы:
 
 
-[Сайт naves64.ru](https://github.com/serega-miha/naves64-finish.git)
-первая заказная работа с нуля. Создание макета, верстка, настройка отправки формы, интерактивный калькулятор цены, выкладывание на хостинг.
+:exclamation: [Сайт naves64.ru](https://github.com/serega-miha/naves64-finish.git)
+***первая*** заказная работа с нуля. Создание макета, верстка, настройка отправки формы, интерактивный калькулятор цены, отправка на хостинг.
 
-[Макет LuxTrade](https://github.com/serega-miha/luxTrade.git)
+:grey_exclamation: [Макет LuxTrade](https://github.com/serega-miha/luxTrade.git)
 из свободного доступа. Верстка.
 
-
-[Небольшой макет Norway](https://github.com/serega-miha/norwayFrel.git)
-из свободного доступа. Верстка.
-
-[Третий проект от Udemy](https://github.com/serega-miha/projectThird.git)
+:grey_exclamation: [Третий проект от Udemy](https://github.com/serega-miha/projectThird.git)
 многостраничный сайт и скрипты в ООП стиле.
 
-[Второй проект от Udemy](https://github.com/serega-miha/food.git)
+:grey_exclamation: [Второй проект от Udemy](https://github.com/serega-miha/projectSecond.git)
+одностраничный сайт в классическом стиле, с табами, фильтром, формами, модальными окнами и небольшим интерактивом
+
+:grey_exclamation: [Первый проект от Udemy](https://github.com/serega-miha/food.git)
 одностраничник с табами, калькулятором и отправкой формы.
 
+:grey_exclamation: [Небольшой макет Norway](https://github.com/serega-miha/norwayFrel.git)
+из свободного доступа. Верстка.
 
 
 
+####
+### Обучался на курсах:
 
-
-Обучался на курсах:
-
-**Udemy:** 
+:fire:  **Udemy:** 
 - Практический JavaScript (Продвинутый уровень)
 - Полный курс по JavaScript + React - с нуля до результата
 
-**Hexlet:** 
+:+1: **Hexlet:** 
 - Введение в программирование
 
-**Patreon:** 
+:sun_with_face: **Patreon:** 
 HTML, CSS курс по верстке
  
+ 
+ ####
+### О себе:
+ - Изучаю Английский язык
+ - Играю в футбол
 <!--  **serega-miha/serega-miha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
