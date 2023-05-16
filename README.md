@@ -1,7 +1,15 @@
-### Hi there 👋
+##  Михайленко Сергей
 
-<!--
-**serega-miha/serega-miha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :hand: Привет я frontend разработчик 
+
+**Навыки работы c:** 
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,ps,vscode,figma )
+
+Активно изучаю среду Frontend разработки с 2022 года.
+
+ 
+<!--  **serega-miha/serega-miha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
