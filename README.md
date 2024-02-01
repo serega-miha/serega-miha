@@ -19,6 +19,12 @@
 :exclamation: [Сайт naves64.ru](https://github.com/serega-miha/naves64-finish.git)
 ***первая*** заказная работа с нуля. Создание макета, верстка, настройка отправки формы, интерактивный калькулятор цены, отправка на хостинг.
 
+:grey_exclamation: [Habit Tracker](https://github.com/serega-miha/habit-tracker.git)
+собственный проект(в работе) для закрепления пройденного материала
+
+:grey_exclamation: [Четвертый проект от Udemy (React)](https://github.com/serega-miha/luxTrade.git)
+приложение на React с запросами на сервер
+
 :grey_exclamation: [Макет LuxTrade](https://github.com/serega-miha/luxTrade.git)
 из свободного доступа. Верстка.
 
