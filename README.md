@@ -22,7 +22,7 @@
 :grey_exclamation: [Habit Tracker](https://github.com/serega-miha/habit-tracker.git)
 собственный проект(в работе) для закрепления пройденного материала
 
-:grey_exclamation: [Четвертый проект от Udemy (React)](https://github.com/serega-miha/luxTrade.git)
+:grey_exclamation: [Четвертый проект от Udemy (React)](https://github.com/serega-miha/react-marvel.git)
 приложение на React с запросами на сервер
 
 :grey_exclamation: [Макет LuxTrade](https://github.com/serega-miha/luxTrade.git)
